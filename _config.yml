@@ -4,7 +4,7 @@ email:       jaganathan.eswaran@gmail.com
 author:      Jaganathan B
 description: "A place where i can write something about what i know about the technologies"
 baseurl:     ""
-url:         ""
+url:         "https://jaganathanb.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
