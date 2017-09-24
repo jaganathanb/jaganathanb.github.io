@@ -3,8 +3,8 @@
   <channel>
     <title>Jaganathan B</title>
     <description>A place where i can write something about what i know about the technologies</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://jaganathanb.github.io/</link>
+    <atom:link href="https://jaganathanb.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
