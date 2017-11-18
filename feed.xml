@@ -6,5 +6,14 @@
     <link>https://jaganathanb.github.io/</link>
     <atom:link href="https://jaganathanb.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
+      <item>
+        <title>Sample Post</title>
+        <description>&lt;p&gt;This is an empty post..&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Sep 2017 22:16:01 +0000</pubDate>
+        <link>https://jaganathanb.github.io/sample/2017/09/24/sample-post/</link>
+        <guid isPermaLink="true">https://jaganathanb.github.io/sample/2017/09/24/sample-post/</guid>
+      </item>
+    
   </channel>
 </rss>

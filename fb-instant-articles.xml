@@ -7,5 +7,26 @@
       A place where i can write something about what i know about the technologies
     </description>
     
+        
+            <item>
+                <title>Sample Post</title>
+                <link>https://jaganathanb.github.io/sample/2017/09/24/sample-post/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>This is an empty post..</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/sample/2017/09/24/sample-post/</guid>
+                <description>
+                    
+                    This is an empty post.
+                    
+                </description>
+                <pubDate>Sun, 24 Sep 2017 22:16:01 +0000</pubDate>
+                <author>Jaganathan B</author>
+            </item>
+        
+    
   </channel>
 </rss>
